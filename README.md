@@ -1,2 +1,13 @@
-# topic-modeling-coursera-notes
-My notes from the Introduction to Topic Modeling for Business Coursera Course. 
+# Topic Modeling for Business - Ronak's Additional Notes 
+
+In this repository, I have uploaded a file called ```Topic_Modelling_Notebook.ipynb```, which is a Jupyter notebook meant for use in *Google Colab*, which is accessible at the following [link](colab.research.google.com). The idea is to upload this Python notebook to Google Colab so you can run/access the code. 
+
+## Introduction
+
+The point of the code/repository is to learn about topic modeling, which is an efficient unsupervised machine learning tool that helps in analyzing the latent themes from text datasets. In order to complete tasks in this notebook, we need to upload a dataset. In the coursera course, the [following dataset](https://docs.google.com/spreadsheets/d/10_X-Elz6aQR12E6YUh9qwYUxml7AZLTcr4Lv3WV7SEs/edit#gid=1891496005) was graciously provided. In the code, there will be a point where you will upload this file. 
+
+
+## References/Works Cited
+
+This code is taken/modified from the following course on [Coursera](https://www.coursera.org/projects/introduction-to-topic-modeling-for-business). The course was created by [Barsha Saha](https://www.coursera.org/instructor/barsha-saha). 
+
