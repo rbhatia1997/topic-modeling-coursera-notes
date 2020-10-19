@@ -1,6 +1,6 @@
 # Topic Modeling for Business - Ronak's Additional Notes 
 
-In this repository, I have uploaded a file called ```Topic_Modelling_Notebook.ipynb```, which is a Jupyter notebook meant for use in *Google Colab*, which is accessible at the following [link](colab.research.google.com). The idea is to upload this Python notebook to Google Colab so you can run/access the code. 
+In this repository, I have uploaded a file called ```Topic_Modelling_Notebook.ipynb```, which is a Jupyter notebook meant for use in *Google Colab*, which is accessible at the following [link](https://colab.research.google.com/). The idea is to upload this Python notebook to Google Colab so you can run/access the code. 
 
 ## Introduction
 
@@ -10,5 +10,4 @@ My version of the file is called ```Topic_Modelling_Notebook_RonakVersion.ipynb`
 
 ## References/Works Cited
 
-This code is taken/modified from the following course on [Coursera](https://www.coursera.org/projects/introduction-to-topic-modeling-for-business). The course was created by [Barsha Saha](https://www.coursera.org/instructor/barsha-saha). 
-
+This code is taken/modified from the following courses on Coursera: [Coursera Course 1](https://www.coursera.org/projects/introduction-to-topic-modeling-for-business) and [Coursera Course 2](https://coursera.org/projects/optimization-of-topic-models-using-grid-search-method). The courses were created by [Barsha Saha](https://www.coursera.org/instructor/barsha-saha). 
