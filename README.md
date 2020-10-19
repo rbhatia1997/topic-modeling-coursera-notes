@@ -8,6 +8,8 @@ The point of the code/repository is to learn about topic modeling, which is an e
 
 My version of the file is called ```Topic_Modelling_Notebook_RonakVersion.ipynb``` and the one I've modified from Coursera is available in ```Topic_Modelling_Notebook_RonakVersion.ipynb```. Any data utilized is available in the folder that's called "Data."
 
+In the ```Optimized``` folder, some modifications to the Topic Modeling were made - including implementing Grid Search to increase efficiency and cleanly listing out the topics for easy-to-see analysis. 
+
 ## References/Works Cited
 
 This code is taken/modified from the following courses on Coursera: [Coursera Course 1](https://www.coursera.org/projects/introduction-to-topic-modeling-for-business) and [Coursera Course 2](https://coursera.org/projects/optimization-of-topic-models-using-grid-search-method). The courses were created by [Barsha Saha](https://www.coursera.org/instructor/barsha-saha). 
