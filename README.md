@@ -10,6 +10,10 @@ My version of the file is called ```Topic_Modelling_Notebook_RonakVersion.ipynb`
 
 In the ```Optimized``` folder, some modifications to the Topic Modeling were made - including implementing Grid Search to increase efficiency and cleanly listing out the topics for easy-to-see analysis. 
 
+## Addendums to Original Repository
+
+I've added a ```Data_STA``` folder with data that I used in the ```Semantic_Text_Similiarity_Exploration.ipynb``` notebook. This was an exploration in TF-IDF and Google's USE Encoder for doing various NLP tasks, mainly semantic search. 
+
 ## References/Works Cited
 
 This code is taken/modified from the following courses on Coursera: [Coursera Course 1](https://www.coursera.org/projects/introduction-to-topic-modeling-for-business) and [Coursera Course 2](https://coursera.org/projects/optimization-of-topic-models-using-grid-search-method). The courses were created by [Barsha Saha](https://www.coursera.org/instructor/barsha-saha). 
