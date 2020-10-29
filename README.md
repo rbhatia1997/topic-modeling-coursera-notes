@@ -14,6 +14,8 @@ In the ```Optimized``` folder, some modifications to the Topic Modeling were mad
 
 I've added a ```Data_STA``` folder with data that I used in the ```Semantic_Text_Similiarity_Exploration.ipynb``` notebook. This was an exploration in TF-IDF and Google's USE Encoder for doing various NLP tasks, mainly semantic search. 
 
+Additionally, I've added code that enables me to do Topic Analysis and Semantic Analysis on Twitch live-stream chat. This will be called ```Twitch_Topic_Analysis.ipynb```. 
+
 ## References/Works Cited
 
 This code is taken/modified from the following courses on Coursera: [Coursera Course 1](https://www.coursera.org/projects/introduction-to-topic-modeling-for-business) and [Coursera Course 2](https://coursera.org/projects/optimization-of-topic-models-using-grid-search-method). The courses were created by [Barsha Saha](https://www.coursera.org/instructor/barsha-saha). 
